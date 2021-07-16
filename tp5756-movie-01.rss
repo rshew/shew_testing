@@ -14,7 +14,7 @@
 		<item>
 			<title>Test Movie 1</title>
 			<link>www.wurl.com</link>
-			<description>Test Movie Description 1</description>
+			<description>Test Movie Description 2</description>
 			<pubDate>Thu, 15 Jul 2021 17:02:09 GMT</pubDate>
 			<media:thumbnail url="https://wurl-qa.s3.amazonaws.com/shew/test_art.jpg" width="1280" height="720"/>
 			<media:content url="https://wurl-qa.s3.amazonaws.com/shew/TP-5756/test_movie_01.mp4" duration="30"/>
