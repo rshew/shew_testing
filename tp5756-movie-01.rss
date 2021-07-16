@@ -14,7 +14,7 @@
 		<item>
 			<title>Test Movie 1</title>
 			<link>www.wurl.com</link>
-			<description>Test Movie Description 2</description>
+			<description>Test Movie Description 1</description>
 			<pubDate>Thu, 15 Jul 2021 17:02:09 GMT</pubDate>
 			<media:thumbnail url="https://wurl-qa.s3.amazonaws.com/shew/test_art.jpg" width="1280" height="720"/>
 			<media:content url="https://wurl-qa.s3.amazonaws.com/shew/TP-5756/test_movie_01.mp4" duration="30"/>
@@ -30,6 +30,29 @@
 			<media:category scheme="urn:wurl:external:id">tmov01a</media:category>
 			<media:category scheme="urn:sinclair:genre">horror</media:category>
 			<media:rating scheme="urn:mpaa">pg-13</media:rating>
+			<media:category scheme="urn:wurl:channel:key">horror</media:category>
+			<media:category scheme="urn:wurl:channel:key">movie</media:category>
+			<media:category scheme="urn:wurl:channel:key">test</media:category>
+		</item>
+		<item>
+			<title>Test Movie 2</title>
+			<link>www.wurl.com</link>
+			<description>Test Movie Description 2</description>
+			<pubDate>Thu, 15 Jul 2021 17:02:09 GMT</pubDate>
+			<media:thumbnail url="https://wurl-qa.s3.amazonaws.com/shew/test_art.jpg" width="1280" height="720"/>
+			<media:content url="https://wurl-qa.s3.amazonaws.com/shew/TP-5756/test_movie_02.mp4" duration="30"/>
+			<media:category scheme="urn:wurl:content_type">movie</media:category>
+			<media:category scheme="urn:wurl:internal_title">T-MO2</media:category>
+			<media:category scheme="urn:wurl:description_110">T-MO2 description</media:category>
+			<media:category scheme="urn:wurl:target_duration">30</media:category>
+			<media:keywords>test</media:keywords>
+			<wurl:movie>
+				<wurl:officialTitle><![CDATA[Test Movie 02]]></wurl:officialTitle>
+				<wurl:year>2020</wurl:year>
+			</wurl:movie>
+			<media:category scheme="urn:wurl:external:id">tmov02a</media:category>
+			<media:category scheme="urn:sinclair:genre">Suspense</media:category>
+			<media:rating scheme="urn:mpaa">R</media:rating>
 			<media:category scheme="urn:wurl:channel:key">horror</media:category>
 			<media:category scheme="urn:wurl:channel:key">movie</media:category>
 			<media:category scheme="urn:wurl:channel:key">test</media:category>
